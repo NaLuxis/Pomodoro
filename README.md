@@ -1,3 +1,17 @@
+Petit projet sur la base de la méthode de travail Pomodoro.
+
+Objectifs personnel :
+
+- Reprendre le code en douceur
+- Faire un projet sur un sujet que j'aime
+- Découvrir TypeScript
+
+Utilisation de :
+
+- [Template CRA](https://create-react-app.dev/)
+- [React JS](https://fr.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
